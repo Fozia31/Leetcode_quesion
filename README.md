@@ -22,6 +22,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Fozia31/Leetcode_quesion/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0203-remove-linked-list-elements) |

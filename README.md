@@ -7,6 +7,7 @@
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+| [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
+| [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
+| [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -88,4 +91,12 @@
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+## Queue
+|  |
+| ------- |
+| [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->

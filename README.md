@@ -40,6 +40,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Fozia31/Leetcode_quesion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |

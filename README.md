@@ -6,6 +6,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Fozia31/Leetcode_quesion/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
@@ -106,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 ## Queue
@@ -120,6 +122,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Fozia31/Leetcode_quesion/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/1341-split-a-string-in-balanced-strings) |

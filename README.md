@@ -24,6 +24,7 @@
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -116,11 +118,13 @@
 |  |
 | ------- |
 | [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sorting
 |  |
 | ------- |

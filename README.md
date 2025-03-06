@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
@@ -115,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |

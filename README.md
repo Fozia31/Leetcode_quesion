@@ -16,6 +16,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
@@ -110,6 +111,7 @@
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -189,6 +191,7 @@
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

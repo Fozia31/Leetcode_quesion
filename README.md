@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
@@ -180,10 +182,19 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

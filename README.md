@@ -12,6 +12,7 @@
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Fozia31/Leetcode_quesion/tree/master/0890-lemonade-change) |
+| [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
@@ -95,6 +96,7 @@
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
+| [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -185,6 +188,7 @@
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

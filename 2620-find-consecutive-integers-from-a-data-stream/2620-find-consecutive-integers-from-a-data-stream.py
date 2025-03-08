@@ -1,7 +1,7 @@
 class DataStream:
 
     def __init__(self, value: int, k: int):
-        self.que = deque()
+        self.que = []
         self.k = k
         self.value = value
     def consec(self, num: int) -> bool:

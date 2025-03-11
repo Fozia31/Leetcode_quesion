@@ -37,13 +37,11 @@ class MyCircularDeque:
         return -1
 
     def isEmpty(self) -> bool:
-        if len(self.dequeue) == 0:
-            return True
-        return False
+        return len(self.dequeue) == 0
+       
     def isFull(self) -> bool:
-        if len(self.dequeue) == self.k:
-            return True
-        return False
+        return len(self.dequeue) == self.k
+           
 
 # Your MyCircularDeque object will be instantiated and called as such:
 # obj = MyCircularDeque(k)

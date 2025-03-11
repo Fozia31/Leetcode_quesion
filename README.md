@@ -79,6 +79,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Fozia31/Leetcode_quesion/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Fozia31/Leetcode_quesion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

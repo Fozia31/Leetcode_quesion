@@ -78,6 +78,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
@@ -151,6 +152,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Fozia31/Leetcode_quesion/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |

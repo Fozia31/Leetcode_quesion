@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fozia31/Leetcode_quesion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Math

@@ -28,6 +28,7 @@
 | [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
@@ -145,6 +146,7 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Math
 |  |

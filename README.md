@@ -112,6 +112,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Fozia31/Leetcode_quesion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fozia31/Leetcode_quesion/tree/master/0232-implement-queue-using-stacks) |
@@ -248,4 +249,16 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

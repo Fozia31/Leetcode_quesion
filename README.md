@@ -258,6 +258,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,8 +273,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

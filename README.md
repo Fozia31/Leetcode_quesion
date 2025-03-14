@@ -56,6 +56,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/0025-reverse-nodes-in-k-group) |
@@ -76,6 +77,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
@@ -155,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Fozia31/Leetcode_quesion/tree/master/0172-factorial-trailing-zeroes) |

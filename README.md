@@ -87,6 +87,7 @@
 | [0206-reverse-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -96,6 +97,7 @@
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack

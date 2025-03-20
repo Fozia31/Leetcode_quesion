@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fozia31/Leetcode_quesion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -265,6 +266,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

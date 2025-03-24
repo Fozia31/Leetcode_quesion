@@ -14,6 +14,7 @@
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Fozia31/Leetcode_quesion/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0859-design-circular-deque](https://github.com/Fozia31/Leetcode_quesion/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Fozia31/Leetcode_quesion/tree/master/0890-lemonade-change) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
+| [0792-binary-search](https://github.com/Fozia31/Leetcode_quesion/tree/master/0792-binary-search) |
 ## Ordered Set
 |  |
 | ------- |

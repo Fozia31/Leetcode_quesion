@@ -252,6 +252,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Fozia31/Leetcode_quesion/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Fozia31/Leetcode_quesion/tree/master/0792-binary-search) |
 ## Ordered Set
@@ -344,4 +345,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Fozia31/Leetcode_quesion/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

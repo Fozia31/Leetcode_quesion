@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
@@ -341,6 +342,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |

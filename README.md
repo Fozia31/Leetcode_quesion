@@ -13,6 +13,7 @@
 | [0275-h-index-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0275-h-index-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fozia31/Leetcode_quesion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@
 | [0141-linked-list-cycle](https://github.com/Fozia31/Leetcode_quesion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
+| [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fozia31/Leetcode_quesion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
@@ -260,6 +263,7 @@
 | [0275-h-index-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Fozia31/Leetcode_quesion/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Fozia31/Leetcode_quesion/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fozia31/Leetcode_quesion/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Ordered Set

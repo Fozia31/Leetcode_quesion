@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0275-h-index-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fozia31/Leetcode_quesion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
@@ -49,6 +50,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |

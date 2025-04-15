@@ -332,6 +332,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Fozia31/Leetcode_quesion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -348,6 +349,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
+| [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Fozia31/Leetcode_quesion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -365,6 +367,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Fozia31/Leetcode_quesion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -378,6 +381,7 @@
 | [0130-surrounded-regions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
+| [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |

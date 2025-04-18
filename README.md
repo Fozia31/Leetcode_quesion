@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
@@ -203,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0130-surrounded-regions) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
@@ -261,6 +263,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |

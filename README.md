@@ -21,6 +21,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fozia31/Leetcode_quesion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Fozia31/Leetcode_quesion/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |

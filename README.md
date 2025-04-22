@@ -37,6 +37,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
+| [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fozia31/Leetcode_quesion/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
@@ -73,6 +74,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
+| [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1635-number-of-good-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/1635-number-of-good-pairs) |
@@ -451,6 +453,7 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |

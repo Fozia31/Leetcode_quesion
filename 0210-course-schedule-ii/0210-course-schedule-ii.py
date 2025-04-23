@@ -8,7 +8,6 @@ class Solution:
         for courses , pre in prerequisites:
             graph[pre].append(courses)
             indegree[courses] += 1
-        print(indegree)
 
         for i in range(numCourses):
             if indegree[i] == 0:
@@ -22,9 +21,7 @@ class Solution:
                     queue.append(neig)
             order.append(node)
         
-        if len(order) > numCourses or len(order) < numCourses:
-            return []
-        return order
+        return order if len(order) == numCourses else []
 
 
         

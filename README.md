@@ -38,6 +38,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
+| [1036-rotting-oranges](https://github.com/Fozia31/Leetcode_quesion/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fozia31/Leetcode_quesion/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -226,6 +227,7 @@
 | [0200-number-of-islands](https://github.com/Fozia31/Leetcode_quesion/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1036-rotting-oranges](https://github.com/Fozia31/Leetcode_quesion/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 ## Queue
@@ -419,6 +421,7 @@
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Fozia31/Leetcode_quesion/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |

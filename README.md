@@ -385,6 +385,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Fozia31/Leetcode_quesion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -425,6 +426,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Fozia31/Leetcode_quesion/tree/master/1036-rotting-oranges) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Fozia31/Leetcode_quesion/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -483,6 +486,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |

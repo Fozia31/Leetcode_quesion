@@ -189,6 +189,7 @@
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Fozia31/Leetcode_quesion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fozia31/Leetcode_quesion/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Fozia31/Leetcode_quesion/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Fozia31/Leetcode_quesion/tree/master/0969-number-of-recent-calls) |
@@ -249,6 +250,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Fozia31/Leetcode_quesion/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1767-design-front-middle-back-queue) |
@@ -310,6 +312,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Fozia31/Leetcode_quesion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
@@ -365,6 +368,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Fozia31/Leetcode_quesion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
@@ -408,6 +412,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Fozia31/Leetcode_quesion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
@@ -439,6 +444,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |

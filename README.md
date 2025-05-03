@@ -103,6 +103,7 @@
 | [0002-add-two-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0086-partition-list) |
@@ -311,6 +312,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -456,6 +458,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
@@ -498,4 +501,8 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

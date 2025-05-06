@@ -59,6 +59,7 @@
 | [1783-ways-to-make-a-fair-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
@@ -237,6 +238,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/Fozia31/Leetcode_quesion/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+| [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 ## Queue
 |  |
@@ -445,6 +447,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/Fozia31/Leetcode_quesion/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
+| [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |

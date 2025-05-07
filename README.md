@@ -401,6 +401,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Fozia31/Leetcode_quesion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
@@ -444,6 +445,7 @@
 | [0542-01-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Fozia31/Leetcode_quesion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1005-univalued-binary-tree) |
@@ -492,10 +494,12 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Fozia31/Leetcode_quesion/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Fozia31/Leetcode_quesion/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0210-course-schedule-ii) |
+| [0801-is-graph-bipartite](https://github.com/Fozia31/Leetcode_quesion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Fozia31/Leetcode_quesion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fozia31/Leetcode_quesion/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |

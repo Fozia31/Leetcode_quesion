@@ -144,6 +144,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Fozia31/Leetcode_quesion/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0263-ugly-number) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -368,6 +371,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |

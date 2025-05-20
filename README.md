@@ -376,6 +376,7 @@
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
@@ -492,6 +493,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Fozia31/Leetcode_quesion/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |

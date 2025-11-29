@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Fozia31/Leetcode_quesion/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |

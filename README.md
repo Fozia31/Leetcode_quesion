@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Fozia31/Leetcode_quesion/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Fozia31/Leetcode_quesion/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Fozia31/Leetcode_quesion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
@@ -251,6 +253,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Fozia31/Leetcode_quesion/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0130-surrounded-regions) |

@@ -238,6 +238,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -393,6 +394,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0136-single-number) |

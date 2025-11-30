@@ -229,6 +229,7 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
@@ -246,6 +247,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Fozia31/Leetcode_quesion/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
@@ -486,6 +488,7 @@
 | [0130-surrounded-regions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Fozia31/Leetcode_quesion/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Fozia31/Leetcode_quesion/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0542-01-matrix) |

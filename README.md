@@ -42,6 +42,7 @@
 | [0792-binary-search](https://github.com/Fozia31/Leetcode_quesion/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0859-design-circular-deque](https://github.com/Fozia31/Leetcode_quesion/tree/master/0859-design-circular-deque) |
+| [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Fozia31/Leetcode_quesion/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -233,6 +234,7 @@
 | [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -253,6 +255,7 @@
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0754-reach-a-number) |
+| [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Fozia31/Leetcode_quesion/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
@@ -589,4 +592,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

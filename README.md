@@ -159,6 +159,7 @@
 | [0020-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
+| [0171-excel-sheet-column-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0171-excel-sheet-column-number) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
@@ -244,6 +245,7 @@
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Fozia31/Leetcode_quesion/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Fozia31/Leetcode_quesion/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |

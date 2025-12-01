@@ -56,6 +56,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fozia31/Leetcode_quesion/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Fozia31/Leetcode_quesion/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/Fozia31/Leetcode_quesion/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Fozia31/Leetcode_quesion/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -98,6 +99,7 @@
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
 | [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1590-make-sum-divisible-by-p](https://github.com/Fozia31/Leetcode_quesion/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/1635-number-of-good-pairs) |
@@ -111,6 +113,7 @@
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/Fozia31/Leetcode_quesion/tree/master/1590-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Fozia31/Leetcode_quesion/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -259,6 +262,7 @@
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fozia31/Leetcode_quesion/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Fozia31/Leetcode_quesion/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/1635-number-of-good-pairs) |
@@ -397,6 +401,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Fozia31/Leetcode_quesion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Fozia31/Leetcode_quesion/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |

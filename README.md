@@ -89,6 +89,7 @@
 | [0141-linked-list-cycle](https://github.com/Fozia31/Leetcode_quesion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -165,6 +166,7 @@
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0205-isomorphic-strings) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |

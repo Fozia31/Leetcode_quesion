@@ -19,6 +19,7 @@
 | [0137-single-number-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Fozia31/Leetcode_quesion/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Fozia31/Leetcode_quesion/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
@@ -386,6 +387,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Fozia31/Leetcode_quesion/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Fozia31/Leetcode_quesion/tree/master/0278-first-bad-version) |

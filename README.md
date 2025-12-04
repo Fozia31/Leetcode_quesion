@@ -82,6 +82,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -248,6 +249,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 ## Math
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/Fozia31/Leetcode_quesion/tree/master/1762-furthest-building-you-can-reach) |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
 |  |
@@ -350,6 +353,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fozia31/Leetcode_quesion/tree/master/1675-magnetic-force-between-two-balls) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 ## Simulation
 |  |
 | ------- |
@@ -432,6 +436,7 @@
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 ## Tree
 |  |
 | ------- |
@@ -541,6 +546,7 @@
 | [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Fozia31/Leetcode_quesion/tree/master/0089-gray-code) |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -616,4 +622,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->

@@ -84,6 +84,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
+| [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -629,4 +631,5 @@
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
+| [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 <!---LeetCode Topics End-->

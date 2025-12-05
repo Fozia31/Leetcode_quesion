@@ -251,6 +251,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0343-integer-break](https://github.com/Fozia31/Leetcode_quesion/tree/master/0343-integer-break) |
 | [0542-01-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
@@ -272,6 +273,7 @@
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Fozia31/Leetcode_quesion/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |

@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/Fozia31/Leetcode_quesion/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Fozia31/Leetcode_quesion/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -354,6 +355,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Fozia31/Leetcode_quesion/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |

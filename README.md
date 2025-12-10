@@ -89,6 +89,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -295,6 +296,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -639,6 +641,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -661,4 +664,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fozia31/Leetcode_quesion/tree/master/0187-repeated-dna-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->

@@ -66,6 +66,7 @@
 | [1293-three-consecutive-odds](https://github.com/Fozia31/Leetcode_quesion/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Fozia31/Leetcode_quesion/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1470-shuffle-the-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
@@ -116,6 +117,7 @@
 | [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1590-make-sum-divisible-by-p](https://github.com/Fozia31/Leetcode_quesion/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/1635-number-of-good-pairs) |
@@ -376,6 +378,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Fozia31/Leetcode_quesion/tree/master/1675-magnetic-force-between-two-balls) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -674,4 +677,8 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

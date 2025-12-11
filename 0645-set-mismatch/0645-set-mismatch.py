@@ -1,17 +1,20 @@
-class Solution:
-    def findErrorNums(self, nums: List[int]) -> List[int]:
-        nums.sort()
+class Solution(object):
+    def findErrorNums(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        res = []
+        sett = set(nums)
 
-        start = 0
-        end = len(nums)
-        while start < end:
-            if nums[start] == nums[start + 1]:
-                missing = sum(range(1, len(nums) + 1)) - sum(set(nums))
+        for s in sett:
+            if nums.count(s) >=2:
+                res.append(s)
+                break
+        summ = 0
+        for i in range(1,len(nums)+1):
+            summ += i
 
-                return [nums[start] , missing]
-            start += 1
-            
-
-
-
+        res.append(summ-sum(sett))
+        return res
         

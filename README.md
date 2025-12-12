@@ -68,6 +68,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Fozia31/Leetcode_quesion/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1470-shuffle-the-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
@@ -239,6 +240,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
 | [2211-count-collisions-on-a-road](https://github.com/Fozia31/Leetcode_quesion/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
@@ -397,6 +399,7 @@
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |

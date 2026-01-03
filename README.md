@@ -45,6 +45,7 @@
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0665-non-decreasing-array) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
+| [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/Fozia31/Leetcode_quesion/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Fozia31/Leetcode_quesion/tree/master/0792-binary-search) |
@@ -127,6 +128,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Fozia31/Leetcode_quesion/tree/master/0690-employee-importance) |
+| [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Fozia31/Leetcode_quesion/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
@@ -178,6 +180,7 @@
 | [0206-reverse-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Fozia31/Leetcode_quesion/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
@@ -265,6 +268,7 @@
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Fozia31/Leetcode_quesion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fozia31/Leetcode_quesion/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Fozia31/Leetcode_quesion/tree/master/0859-design-circular-deque) |
@@ -710,6 +714,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fozia31/Leetcode_quesion/tree/master/0187-repeated-dna-sequences) |
+| [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 ## Combinatorics
 |  |
 | ------- |

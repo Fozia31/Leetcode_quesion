@@ -112,6 +112,7 @@
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Fozia31/Leetcode_quesion/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
@@ -309,6 +310,7 @@
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Fozia31/Leetcode_quesion/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
 | ------- |

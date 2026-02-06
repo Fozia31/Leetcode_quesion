@@ -111,6 +111,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
@@ -433,6 +434,7 @@
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Fozia31/Leetcode_quesion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Fozia31/Leetcode_quesion/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Fozia31/Leetcode_quesion/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
 |  |

@@ -224,6 +224,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/1021-remove-outermost-parentheses) |
 | [1044-find-common-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/1044-find-common-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fozia31/Leetcode_quesion/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
@@ -271,6 +272,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/1021-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fozia31/Leetcode_quesion/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1720-crawler-log-folder](https://github.com/Fozia31/Leetcode_quesion/tree/master/1720-crawler-log-folder) |
 | [2211-count-collisions-on-a-road](https://github.com/Fozia31/Leetcode_quesion/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
@@ -305,6 +307,7 @@
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fozia31/Leetcode_quesion/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fozia31/Leetcode_quesion/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |

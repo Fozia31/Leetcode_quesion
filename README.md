@@ -155,6 +155,7 @@
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
+| [3714-longest-balanced-substring-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -173,6 +174,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Fozia31/Leetcode_quesion/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -240,6 +242,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
+| [3714-longest-balanced-substring-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3714-longest-balanced-substring-ii) |
 ## Two Pointers
 |  |
 | ------- |

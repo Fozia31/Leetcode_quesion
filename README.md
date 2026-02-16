@@ -304,6 +304,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Fozia31/Leetcode_quesion/tree/master/0279-perfect-squares) |
@@ -329,6 +330,7 @@
 | [0029-divide-two-integers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Fozia31/Leetcode_quesion/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Fozia31/Leetcode_quesion/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fozia31/Leetcode_quesion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0171-excel-sheet-column-number) |
@@ -722,6 +724,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brainteaser
 |  |

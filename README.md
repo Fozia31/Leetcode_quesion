@@ -540,6 +540,7 @@
 | [0191-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Fozia31/Leetcode_quesion/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -658,6 +659,7 @@
 | [0046-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Fozia31/Leetcode_quesion/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Fozia31/Leetcode_quesion/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0401-binary-watch) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 ## Divide and Conquer
 |  |

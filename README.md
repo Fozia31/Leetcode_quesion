@@ -223,6 +223,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Fozia31/Leetcode_quesion/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0205-isomorphic-strings) |
+| [0696-count-binary-substrings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -252,6 +253,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
+| [0696-count-binary-substrings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |

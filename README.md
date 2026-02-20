@@ -224,6 +224,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Fozia31/Leetcode_quesion/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/0761-special-binary-string) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -436,6 +437,7 @@
 | [0475-heaters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/0761-special-binary-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
@@ -673,6 +675,7 @@
 | [0191-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/0761-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |

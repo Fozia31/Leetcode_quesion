@@ -54,6 +54,7 @@
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Fozia31/Leetcode_quesion/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -388,6 +389,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Fozia31/Leetcode_quesion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fozia31/Leetcode_quesion/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Fozia31/Leetcode_quesion/tree/master/0859-design-circular-deque) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-number-of-recent-calls](https://github.com/Fozia31/Leetcode_quesion/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Fozia31/Leetcode_quesion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -442,6 +444,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/0761-special-binary-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Fozia31/Leetcode_quesion/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Fozia31/Leetcode_quesion/tree/master/1095-two-city-scheduling) |
@@ -464,6 +467,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Fozia31/Leetcode_quesion/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |

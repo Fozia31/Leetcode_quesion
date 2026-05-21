@@ -106,6 +106,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
@@ -154,6 +155,7 @@
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
@@ -245,6 +247,7 @@
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
@@ -763,6 +766,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Enumeration
 |  |
 | ------- |

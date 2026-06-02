@@ -116,6 +116,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3640-trionic-array-ii) |
@@ -266,6 +267,7 @@
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/Fozia31/Leetcode_quesion/tree/master/1762-furthest-building-you-can-reach) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
@@ -466,6 +469,7 @@
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
@@ -526,6 +530,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Fozia31/Leetcode_quesion/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Fozia31/Leetcode_quesion/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fozia31/Leetcode_quesion/tree/master/2054-two-best-non-overlapping-events) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
 |  |

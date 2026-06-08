@@ -110,6 +110,7 @@
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |

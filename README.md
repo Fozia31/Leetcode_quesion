@@ -115,6 +115,7 @@
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Fozia31/Leetcode_quesion/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
@@ -341,6 +342,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Fozia31/Leetcode_quesion/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3640-trionic-array-ii) |
 ## Math
@@ -379,6 +381,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Matrix
 |  |
@@ -585,6 +588,7 @@
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
 | ------- |
@@ -609,6 +613,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Fozia31/Leetcode_quesion/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -639,6 +644,7 @@
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |

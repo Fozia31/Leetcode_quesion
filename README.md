@@ -260,6 +260,7 @@
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3714-longest-balanced-substring-ii) |
 ## Two Pointers
 |  |
@@ -502,6 +503,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/2470-removing-stars-from-a-string) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3614-process-string-with-special-operations-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

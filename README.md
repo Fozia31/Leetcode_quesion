@@ -649,6 +649,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1382-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Fozia31/Leetcode_quesion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -702,6 +703,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fozia31/Leetcode_quesion/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Fozia31/Leetcode_quesion/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Fozia31/Leetcode_quesion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -832,4 +834,12 @@
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Fozia31/Leetcode_quesion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Fozia31/Leetcode_quesion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->

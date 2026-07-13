@@ -811,6 +811,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Fozia31/Leetcode_quesion/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Fozia31/Leetcode_quesion/tree/master/1925-count-square-sum-triples) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |

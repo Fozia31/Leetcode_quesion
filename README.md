@@ -388,6 +388,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
@@ -849,4 +850,8 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Fozia31/Leetcode_quesion/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

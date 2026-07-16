@@ -130,6 +130,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Fozia31/Leetcode_quesion/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Fozia31/Leetcode_quesion/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -491,6 +494,7 @@
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/3634-minimum-removals-to-balance-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -511,6 +515,7 @@
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -854,4 +859,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

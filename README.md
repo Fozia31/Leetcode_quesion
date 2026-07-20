@@ -69,6 +69,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Fozia31/Leetcode_quesion/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Fozia31/Leetcode_quesion/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/Fozia31/Leetcode_quesion/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Fozia31/Leetcode_quesion/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-jump-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1306-jump-game-iii) |
@@ -407,6 +408,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Fozia31/Leetcode_quesion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/Fozia31/Leetcode_quesion/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
+| [1260-shift-2d-grid](https://github.com/Fozia31/Leetcode_quesion/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -504,6 +506,7 @@
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Fozia31/Leetcode_quesion/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/Fozia31/Leetcode_quesion/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Fozia31/Leetcode_quesion/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |

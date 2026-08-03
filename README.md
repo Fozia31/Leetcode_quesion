@@ -79,6 +79,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Fozia31/Leetcode_quesion/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -352,6 +353,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1340-jump-game-v](https://github.com/Fozia31/Leetcode_quesion/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fozia31/Leetcode_quesion/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fozia31/Leetcode_quesion/tree/master/2054-two-best-non-overlapping-events) |
@@ -387,6 +389,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Fozia31/Leetcode_quesion/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fozia31/Leetcode_quesion/tree/master/1248-count-number-of-nice-subarrays) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Fozia31/Leetcode_quesion/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Fozia31/Leetcode_quesion/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/1635-number-of-good-pairs) |
@@ -829,6 +832,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Fozia31/Leetcode_quesion/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
 | ------- |
@@ -882,4 +886,12 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

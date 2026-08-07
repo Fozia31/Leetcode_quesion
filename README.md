@@ -270,6 +270,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
@@ -401,6 +402,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -470,6 +472,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting
@@ -759,6 +762,7 @@
 | [0089-gray-code](https://github.com/Fozia31/Leetcode_quesion/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/Fozia31/Leetcode_quesion/tree/master/0401-binary-watch) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -890,6 +894,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Minimax

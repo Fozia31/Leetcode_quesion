@@ -270,6 +270,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fozia31/Leetcode_quesion/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -292,6 +293,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Fozia31/Leetcode_quesion/tree/master/1002-maximum-width-ramp) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Fozia31/Leetcode_quesion/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fozia31/Leetcode_quesion/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -363,6 +365,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fozia31/Leetcode_quesion/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Fozia31/Leetcode_quesion/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3640-trionic-array-ii) |
@@ -472,6 +475,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fozia31/Leetcode_quesion/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |

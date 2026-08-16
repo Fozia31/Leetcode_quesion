@@ -101,6 +101,7 @@
 | [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fozia31/Leetcode_quesion/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -403,6 +404,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/Fozia31/Leetcode_quesion/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
@@ -473,6 +475,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Fozia31/Leetcode_quesion/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/Fozia31/Leetcode_quesion/tree/master/1762-furthest-building-you-can-reach) |
 | [1833-maximum-ice-cream-bars](https://github.com/Fozia31/Leetcode_quesion/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
@@ -487,6 +490,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/1635-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
@@ -848,6 +852,7 @@
 | [0486-predict-the-winner](https://github.com/Fozia31/Leetcode_quesion/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -907,8 +912,14 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

@@ -118,6 +118,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
@@ -409,6 +410,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/3055-maximum-odd-binary-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
@@ -597,6 +599,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Fozia31/Leetcode_quesion/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Fozia31/Leetcode_quesion/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fozia31/Leetcode_quesion/tree/master/2054-two-best-non-overlapping-events) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3643-zero-array-transformation-ii) |
@@ -643,6 +646,7 @@
 | [1873-longest-nice-substring](https://github.com/Fozia31/Leetcode_quesion/tree/master/1873-longest-nice-substring) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fozia31/Leetcode_quesion/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
@@ -880,6 +884,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Fozia31/Leetcode_quesion/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Counting Sort
@@ -907,6 +912,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fozia31/Leetcode_quesion/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |

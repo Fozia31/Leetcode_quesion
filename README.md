@@ -138,6 +138,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Fozia31/Leetcode_quesion/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fozia31/Leetcode_quesion/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -184,6 +185,7 @@
 | [3583-count-special-triplets](https://github.com/Fozia31/Leetcode_quesion/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Fozia31/Leetcode_quesion/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/3731-find-missing-elements) |
 ## Prefix Sum

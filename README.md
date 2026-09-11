@@ -122,6 +122,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fozia31/Leetcode_quesion/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Fozia31/Leetcode_quesion/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Fozia31/Leetcode_quesion/tree/master/3433-count-mentions-per-user) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -180,6 +181,7 @@
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Fozia31/Leetcode_quesion/tree/master/3527-find-the-most-common-response) |
 | [3531-count-covered-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/3531-count-covered-buildings) |
@@ -249,6 +251,7 @@
 | [0486-predict-the-winner](https://github.com/Fozia31/Leetcode_quesion/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fozia31/Leetcode_quesion/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -889,6 +892,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/3483-unique-3-digit-even-numbers) |
 ## Rolling Hash
 |  |
 | ------- |

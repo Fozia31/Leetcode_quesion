@@ -111,6 +111,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Fozia31/Leetcode_quesion/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Fozia31/Leetcode_quesion/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2465-shifting-letters-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -383,6 +384,7 @@
 | [1872-stone-game-viii](https://github.com/Fozia31/Leetcode_quesion/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fozia31/Leetcode_quesion/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Fozia31/Leetcode_quesion/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fozia31/Leetcode_quesion/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -456,6 +458,7 @@
 | [1260-shift-2d-grid](https://github.com/Fozia31/Leetcode_quesion/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Fozia31/Leetcode_quesion/tree/master/1876-map-of-highest-peak) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fozia31/Leetcode_quesion/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -958,4 +961,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Fozia31/Leetcode_quesion/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

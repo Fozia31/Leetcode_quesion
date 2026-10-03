@@ -262,6 +262,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fozia31/Leetcode_quesion/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Fozia31/Leetcode_quesion/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0171-excel-sheet-column-number) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fozia31/Leetcode_quesion/tree/master/0144-binary-tree-preorder-traversal) |
@@ -365,6 +367,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Fozia31/Leetcode_quesion/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fozia31/Leetcode_quesion/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -964,5 +967,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

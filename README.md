@@ -270,6 +270,7 @@
 | [0205-isomorphic-strings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/Fozia31/Leetcode_quesion/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -334,6 +335,7 @@
 | [0496-next-greater-element-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Fozia31/Leetcode_quesion/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Fozia31/Leetcode_quesion/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Fozia31/Leetcode_quesion/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Fozia31/Leetcode_quesion/tree/master/0943-sum-of-subarray-minimums) |
@@ -968,5 +970,6 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

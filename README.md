@@ -118,6 +118,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Fozia31/Leetcode_quesion/tree/master/2708-maximum-strength-of-a-group) |
 | [2737-row-with-maximum-ones](https://github.com/Fozia31/Leetcode_quesion/tree/master/2737-row-with-maximum-ones) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fozia31/Leetcode_quesion/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -183,6 +184,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fozia31/Leetcode_quesion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2768-number-of-black-blocks](https://github.com/Fozia31/Leetcode_quesion/tree/master/2768-number-of-black-blocks) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Fozia31/Leetcode_quesion/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Fozia31/Leetcode_quesion/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Fozia31/Leetcode_quesion/tree/master/3483-unique-3-digit-even-numbers) |
@@ -930,6 +932,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
@@ -972,4 +975,8 @@
 | [0032-longest-valid-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Fozia31/Leetcode_quesion/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fozia31/Leetcode_quesion/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Fozia31/Leetcode_quesion/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0275-h-index-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -202,6 +203,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Fozia31/Leetcode_quesion/tree/master/0560-subarray-sum-equals-k) |
 | [1242-matrix-block-sum](https://github.com/Fozia31/Leetcode_quesion/tree/master/1242-matrix-block-sum) |
@@ -355,6 +357,7 @@
 | [0146-lru-cache](https://github.com/Fozia31/Leetcode_quesion/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Fozia31/Leetcode_quesion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fozia31/Leetcode_quesion/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |

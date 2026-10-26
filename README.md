@@ -30,6 +30,7 @@
 | [0275-h-index-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Fozia31/Leetcode_quesion/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -361,6 +362,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Fozia31/Leetcode_quesion/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0307-range-sum-query-mutable) |
 | [0705-design-hashset](https://github.com/Fozia31/Leetcode_quesion/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fozia31/Leetcode_quesion/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Fozia31/Leetcode_quesion/tree/master/0838-design-linked-list) |
@@ -828,6 +830,7 @@
 | [0190-reverse-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Fozia31/Leetcode_quesion/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fozia31/Leetcode_quesion/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Fozia31/Leetcode_quesion/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Fozia31/Leetcode_quesion/tree/master/0761-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Fozia31/Leetcode_quesion/tree/master/1285-balance-a-binary-search-tree) |
@@ -939,6 +942,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Fozia31/Leetcode_quesion/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/3719-longest-balanced-subarray-i) |
@@ -985,5 +989,10 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fozia31/Leetcode_quesion/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Fozia31/Leetcode_quesion/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
